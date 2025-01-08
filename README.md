@@ -6,7 +6,7 @@ algunos casos. En cada uno de ellos, tendrás que identificar los atributos, las
 responsabilidades y el constructor más adecuado según el contexto. Después, crearás los
 diagramas de clases usando DrawIO.
 
-###Ejercicio N° 1
+### Ejercicio N° 1
 
 Imagina que el tío Rico tiene una cuenta en el banco UAGro Bank. Cada vez que realiza un
 retiro, verifica varios aspectos de su cuenta: que el nombre del titular sea el suyo, que el saldo
